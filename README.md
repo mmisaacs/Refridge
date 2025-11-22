@@ -1,4 +1,4 @@
-![image](/Images/Refridge Banner.png)
+![Header Banner](Images/Refridge%20Banner.png)
 # Refridge
 
 ## Meet the Team
