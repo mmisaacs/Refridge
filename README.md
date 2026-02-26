@@ -9,12 +9,12 @@
 
 ## 👩‍💻 The Team
 
-<a href="https://github.com/your-username">
-  <img src="https://github.com/your-username.png" width="150" style="border-radius: 50%;" alt="Name"/>
+<a href="https://github.com/mmisaacs">
+  <img src="[https://github.com/your-username.png](https://avatars.githubusercontent.com/u/114186981?v=4)" width="150" style="border-radius: 50%;" alt="Name"/>
 </a>
 
-**Name Here**
+**Madide Isaacs**
 *Lead Developer*
 
-[GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/mmisaacs) | [LinkedIn](https://linkedin.com/in/mmisaacs)
 ## Project Timeline
