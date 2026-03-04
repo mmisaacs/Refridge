@@ -1,11 +1,6 @@
 ![Header Banner](Images/Refridge%20Banner.png)
 # Refridge
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/8Jh73wlNCgtOipCiFWsov2/UI-UX-2025-Refridge?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
-## 🎨 Design Reference
-[![Figma Design](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]("https://embed.figma.com/design/8Jh73wlNCgtOipCiFWsov2/UI-UX-2025-Refridge?node-id=0-1&embed-host=share")
-
-> Click the badge above to view the interactive prototype.
 ## Project Overview
 ## Meet the Team
 | Profiles |  |  | | |
