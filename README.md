@@ -9,3 +9,5 @@ To view the high fidelity prototype use [the following link](https://www.figma.c
 ## Project Timeline
 
 ## Project Demo
+![Iventory Demo](Images/Inventory%20Functions%20Demo.gif)
+![Recipe Demo](Images/Recipe%20Functions%20Demo.gif)
